@@ -4,7 +4,6 @@
 //Latif Fetahaj
 //CSC 211
 //Honors Project
-//ID: 23838210
 //Thursday, May 21st 2020
 
 //Credits: Abdullah Aghazadah for providing videos
