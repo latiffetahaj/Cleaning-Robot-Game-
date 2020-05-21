@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>vacuumSound1.wav</file>
+        <file>robotSound1.wav</file>
+        <file>rombaSound.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>robot.png</file>
+        <file>garbage1.png</file>
+        <file>romba.png</file>
+        <file>floor.jpg</file>
+    </qresource>
+</RCC>
