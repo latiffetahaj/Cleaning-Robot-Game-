@@ -1,6 +1,6 @@
 # Cleaning-Robot-Game-
 
-Designed a game with an interface using the Qt environment.
+Designed a game with an interface using the Qt environment. <br />
 •	Built a “Cleaning Robot Game” using C++ where two robots compete who cleans the room first. <br />
 •	Maintained a health variable that decreases when robots bump into each other. <br />
 •	Generated 3 dirt items in the room at random locations using a random function. <br />
