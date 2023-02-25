@@ -9,12 +9,12 @@ Designed a game with an interface using the Qt environment. <br />
 
 
 
-# Game Demo 
+## Game Demo 
 
 https://user-images.githubusercontent.com/20369540/221332345-5057986c-a42c-4732-9941-fc3b8fe27661.mp4
 
 
-
+## Resources 
 Project is based on the videos of Abdullah Aghazadah <br />
 Link to his channel <br />
 https://www.youtube.com/channel/UClzV7jGJREjvCTzfGTrdrkQ 
